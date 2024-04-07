@@ -1,0 +1,89 @@
+.contact-container {
+  padding: 10px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact-name {
+  color: #333;
+}
+
+.contact-phone {
+  color: #666;
+}
+.contact-email {
+  color: #666;
+}
+
+.contact-date {
+  color: #999;
+  font-size: 0.8rem;
+}
+
+.delete-button {
+  background-color: #f44336; /* Red */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.delete-button:hover {
+  background-color: #d32f2f; /* Darker red */
+}
+
+
+.add-button {
+  background-color: #878d97; /* Red */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.add-button:hover {
+  background-color: #2fa7d3; /* Darker red */
+}
+
+
+.add-button:hover {
+  background-color: #2f7bd3; /* Darker red */
+}
+
+
+/* styles/Contact.css */
+.contact-card {
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.contact-card h3 {
+    margin-top: 0;
+}
+
+.contact-card p {
+    margin-bottom: 10px;
+}
+
+.delete-button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.delete-button:hover {
+    background-color: #ff1a1a;
+}
